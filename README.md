@@ -88,3 +88,5 @@ Based on a **visual-semantic joint embedding space**:
 
 ---
 
+> 📄 The research paper for this project has been accepted by *Scientific Reports*.
+
