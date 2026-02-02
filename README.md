@@ -88,5 +88,5 @@ Based on a **visual-semantic joint embedding space**:
 
 ---
 
-> 📄 The research paper for this project, **"Composite Material Surface Microscopic Defect Detection and Classification Combining Diffusion Models and Zero-shot Learning"**, has been accepted by *Scientific Reports*.
+> 📄 The research paper for this project, **"Composite Material Surface Microscopic Defect Detection and Classification Combining Diffusion Models and Zero-shot Learning"**, has been published by *Scientific Reports*.
 
